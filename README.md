@@ -12,7 +12,8 @@
 
 </div>
 
-#
+---
+
 ### Me
 I’m Fahad. I am a systems architect, researcher, and tech entrepreneur focused on building intelligent digital infrastructure. My approach to engineering combines applied research with rapid execution—designing robust backend systems, multi-agent frameworks.
 
@@ -28,7 +29,7 @@ I’m Fahad. I am a systems architect, researcher, and tech entrepreneur focused
 ### Research and Experiments
 
 <li style="display: flex; align-items: center; padding: 10px; border: 1px solid #444; border-radius: 10px; margin-bottom: 10px;">
-<span style="margin-right: 10px; background-color: #333; width:100px;text-align: center; border-radius: 5px;">Research</span>
+<span style="margin-right: 10px; background-color: #333; width:100px;text-align: center; border-radius: 5px;color: #cfcfcfff;">Research</span>
 <span>Research Preview</span>
 </li>
 
